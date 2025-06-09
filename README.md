@@ -44,7 +44,7 @@ class ShadowCrawlerX:
 
 ## 🚀 Featured Project
 
-### [SpecterX - Red Team Reconnaissance Framework](link-to-repo)
+### [SpecterX - Red Team Reconnaissance Framework](https://github.com/ShadowCrawlerX/SpecterX)
 *A modular Python toolkit for ethical hackers and red teamers*
 
 - 🔎 **Multi-module recon**: Subdomains, ports, web fingerprinting, LAN discovery
